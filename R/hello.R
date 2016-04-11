@@ -13,4 +13,4 @@ square <- function(x) return(x^2)
 
 
 triple <- function(x) return(x^3)
-quad <- function(x) return(x^4)
+

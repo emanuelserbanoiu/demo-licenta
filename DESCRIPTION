@@ -1,0 +1,11 @@
+Package: DemoLicenta
+Type: Package
+Title: Simple starting project title
+Version: 0.1
+Date: 2016-04-10
+Author: Emanuel Serbanoiu
+Maintainer: Emanuel Serbanoiu <contact@emanuelserbanoiu.com>
+Description: Teaches me stuff
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1

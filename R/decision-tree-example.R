@@ -13,3 +13,4 @@ dtm
 rpart.plot(dtm, type = 4, extra = 101)
 p<-predict(dtm, iris_test, type="class")
 table(iris_test[,5], p)
+pw <- 2
